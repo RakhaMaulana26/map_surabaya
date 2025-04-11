@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/8224396",
         "admin_level": "6",
         "boundary": "administrative",
         "is_in:city": "Surabaya",
