@@ -2,17 +2,17 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2025-04-11T12:23:03Z",
+  "timestamp": "2025-04-11T13:38:07Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224396",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Genteng",
+        "is_in:kecamatan": "Genteng",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -595,17 +595,17 @@
           ]
         ]
       },
-      "id": "relation/8224396"
+      "id": 0
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224405",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Simokerto",
+        "is_in:kecamatan": "Simokerto",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -1072,17 +1072,17 @@
           ]
         ]
       },
-      "id": "relation/8224405"
+      "id": 1
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224478",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Semampir",
+        "is_in:kecamatan": "Semampir",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -2475,17 +2475,17 @@
           ]
         ]
       },
-      "id": "relation/8224478"
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224558",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Kenjeran",
+        "is_in:kecamatan": "Kenjeran",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -3784,17 +3784,17 @@
           ]
         ]
       },
-      "id": "relation/8224558"
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224593",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Bulak",
+        "is_in:kecamatan": "Bulak",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -5881,17 +5881,17 @@
           ]
         ]
       },
-      "id": "relation/8224593"
+      "id": 4
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224636",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Krembangan",
+        "is_in:kecamatan": "Krembangan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -7330,17 +7330,17 @@
           ]
         ]
       },
-      "id": "relation/8224636"
+      "id": 5
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224671",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Bubutan",
+        "is_in:kecamatan": "Bubutan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298203",
@@ -7877,17 +7877,17 @@
           ]
         ]
       },
-      "id": "relation/8224671"
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224735",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Sawahan",
+        "is_in:kecamatan": "Sawahan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298302",
@@ -8576,17 +8576,17 @@
           ]
         ]
       },
-      "id": "relation/8224735"
+      "id": 7
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224825",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Sukomanunggal",
+        "is_in:kecamatan": "Sukomanunggal",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -9521,18 +9521,18 @@
           ]
         ]
       },
-      "id": "relation/8224825"
+      "id": 8
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224843",
-        "admin_level": "6",
+        "admin_level": 6,
         "alt_name": "Asem Rowo",
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Asemrowo",
+        "is_in:kecamatan": "Asemrowo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q9298564",
@@ -11421,17 +11421,17 @@
           ]
         ]
       },
-      "id": "relation/8224843"
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8224860",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Pakal",
+        "is_in:kecamatan": "Pakal",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -12966,17 +12966,17 @@
           ]
         ]
       },
-      "id": "relation/8224860"
+      "id": 10
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225068",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Tandes",
+        "is_in:kecamatan": "Tandes",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -14059,17 +14059,17 @@
           ]
         ]
       },
-      "id": "relation/8225068"
+      "id": 11
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225081",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Benowo",
+        "is_in:kecamatan": "Benowo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -16810,17 +16810,17 @@
           ]
         ]
       },
-      "id": "relation/8225081"
+      "id": 12
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225121",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Tambaksari",
+        "is_in:kecamatan": "Tambaksari",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -17815,17 +17815,17 @@
           ]
         ]
       },
-      "id": "relation/8225121"
+      "id": 13
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225133",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Lakarsantri",
+        "is_in:kecamatan": "Lakarsantri",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -19160,17 +19160,17 @@
           ]
         ]
       },
-      "id": "relation/8225133"
+      "id": 14
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225175",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Sukolilo",
+        "is_in:kecamatan": "Sukolilo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -20567,17 +20567,17 @@
           ]
         ]
       },
-      "id": "relation/8225175"
+      "id": 15
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225259",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Mulyorejo",
+        "is_in:kecamatan": "Mulyorejo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -21986,17 +21986,17 @@
           ]
         ]
       },
-      "id": "relation/8225259"
+      "id": 16
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225347",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Dukuh Pakis",
+        "is_in:kecamatan": "Dukuh Pakis",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q9298534",
@@ -23233,17 +23233,17 @@
           ]
         ]
       },
-      "id": "relation/8225347"
+      "id": 17
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225358",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Sambikerep",
+        "is_in:kecamatan": "Sambikerep",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -24726,17 +24726,17 @@
           ]
         ]
       },
-      "id": "relation/8225358"
+      "id": 18
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225432",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Gubeng",
+        "is_in:kecamatan": "Gubeng",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -25471,17 +25471,17 @@
           ]
         ]
       },
-      "id": "relation/8225432"
+      "id": 19
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225437",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Rungkut",
+        "is_in:kecamatan": "Rungkut",
         "type": "boundary"
       },
       "geometry": {
@@ -27007,17 +27007,17 @@
           ]
         ]
       },
-      "id": "relation/8225437"
+      "id": 20
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225520",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Gayungan",
+        "is_in:kecamatan": "Gayungan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298309",
@@ -27698,17 +27698,17 @@
           ]
         ]
       },
-      "id": "relation/8225520"
+      "id": 21
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225522",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Tenggilis Mejoyo",
+        "is_in:kecamatan": "Tenggilis Mejoyo",
         "type": "boundary"
       },
       "geometry": {
@@ -28650,17 +28650,17 @@
           ]
         ]
       },
-      "id": "relation/8225522"
+      "id": 22
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225536",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Gunung Anyar",
+        "is_in:kecamatan": "Gunung Anyar",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -29807,17 +29807,17 @@
           ]
         ]
       },
-      "id": "relation/8225536"
+      "id": 23
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225558",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Wonocolo",
+        "is_in:kecamatan": "Wonocolo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -30672,17 +30672,17 @@
           ]
         ]
       },
-      "id": "relation/8225558"
+      "id": 24
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225727",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Wiyung",
+        "is_in:kecamatan": "Wiyung",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -32061,17 +32061,17 @@
           ]
         ]
       },
-      "id": "relation/8225727"
+      "id": 25
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225765",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Karang Pilang",
+        "is_in:kecamatan": "Karang Pilang",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -33158,17 +33158,17 @@
           ]
         ]
       },
-      "id": "relation/8225765"
+      "id": 26
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225796",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Wonokromo",
+        "is_in:kecamatan": "Wonokromo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298334",
@@ -34266,17 +34266,17 @@
           ]
         ]
       },
-      "id": "relation/8225796"
+      "id": 27
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225829",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Jambangan",
+        "is_in:kecamatan": "Jambangan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -34735,17 +34735,17 @@
           ]
         ]
       },
-      "id": "relation/8225829"
+      "id": 28
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225844",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Tegalsari",
+        "is_in:kecamatan": "Tegalsari",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -35264,17 +35264,17 @@
           ]
         ]
       },
-      "id": "relation/8225844"
+      "id": 29
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/8225858",
-        "admin_level": "6",
+        "admin_level": 6,
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "name": "Pabean Cantian",
+        "is_in:kecamatan": "Pabean Cantian",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
@@ -36349,918 +36349,7 @@
           ]
         ]
       },
-      "id": "relation/8225858"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565121073",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225765,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Karang Pilang",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6963053,
-          -7.3359139
-        ]
-      },
-      "id": "node/5565121073"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565126067",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225520,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Gayungan",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q3298309",
-              "wikipedia": "id:Gayungan, Surabaya"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7257892,
-          -7.3307839
-        ]
-      },
-      "id": "node/5565126067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565117060",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225536,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Gunung Anyar",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7954797,
-          -7.3395367
-        ]
-      },
-      "id": "node/5565117060"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565116234",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224860,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Pakal",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6157882,
-          -7.2258253
-        ]
-      },
-      "id": "node/5565116234"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565099214",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225133,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Lakarsantri",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6468121,
-          -7.305263
-        ]
-      },
-      "id": "node/5565099214"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565100821",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225358,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Sambikerep",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.662054,
-          -7.2776729
-        ]
-      },
-      "id": "node/5565100821"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565098490",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225727,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Wiyung",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6894997,
-          -7.3110038
-        ]
-      },
-      "id": "node/5565098490"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565100279",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225829,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Jambangan",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7160173,
-          -7.3216981
-        ]
-      },
-      "id": "node/5565100279"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565121918",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225347,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Dukuh Pakis",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q9298534",
-              "wikipedia": "id:Dukuh Pakis, Surabaya"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6951254,
-          -7.2930239
-        ]
-      },
-      "id": "node/5565121918"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565113213",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224735,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Sawahan",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q3298302",
-              "wikipedia": "id:Sawahan, Surabaya"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7200915,
-          -7.2736162
-        ]
-      },
-      "id": "node/5565113213"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565121156",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225081,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Benowo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6497746,
-          -7.2290546
-        ]
-      },
-      "id": "node/5565121156"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565119340",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225068,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Tandes",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6740212,
-          -7.2551475
-        ]
-      },
-      "id": "node/5565119340"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565113788",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224825,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Sukomanunggal",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7009952,
-          -7.2685368
-        ]
-      },
-      "id": "node/5565113788"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565114934",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224843,
-            "reltags": {
-              "admin_level": "6",
-              "alt_name": "Asem Rowo",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Asemrowo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q9298564",
-              "wikipedia": "id:Asemrowo, Surabaya"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.6888023,
-          -7.2417405
-        ]
-      },
-      "id": "node/5565114934"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565124968",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225558,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Wonocolo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.740472,
-          -7.3207469
-        ]
-      },
-      "id": "node/5565124968"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565121794",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225796,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Wonokromo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q3298334",
-              "wikimedia_commons": "Category:Wonokromo",
-              "wikipedia:en": "Wonokromo"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.740057,
-          -7.2976927
-        ]
-      },
-      "id": "node/5565121794"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565126324",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225522,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Tenggilis Mejoyo",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7552486,
-          -7.3209085
-        ]
-      },
-      "id": "node/5565126324"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565100963",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225844,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Tegalsari",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7337319,
-          -7.2763435
-        ]
-      },
-      "id": "node/5565100963"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565125033",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225432,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Gubeng",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7566645,
-          -7.2792947
-        ]
-      },
-      "id": "node/5565125033"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565099710",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225437,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Rungkut",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7905362,
-          -7.3197324
-        ]
-      },
-      "id": "node/5565099710"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565124130",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225175,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Sukolilo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7864133,
-          -7.2929641
-        ]
-      },
-      "id": "node/5565124130"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565105822",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224396,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Genteng",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7443263,
-          -7.2584687
-        ]
-      },
-      "id": "node/5565105822"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565112193",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224671,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Bubutan",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary",
-              "wikidata": "Q3298203",
-              "wikipedia": "id:Bubutan, Surabaya"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.730062,
-          -7.2526708
-        ]
-      },
-      "id": "node/5565112193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565121360",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225121,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Tambaksari",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7670031,
-          -7.2493412
-        ]
-      },
-      "id": "node/5565121360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565109918",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224636,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Krembangan",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7247523,
-          -7.2278082
-        ]
-      },
-      "id": "node/5565109918"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565122861",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225858,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Pabean Cantian",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7359205,
-          -7.2273235
-        ]
-      },
-      "id": "node/5565122861"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565105860",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224405,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Simokerto",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7530624,
-          -7.2385948
-        ]
-      },
-      "id": "node/5565105860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565106597",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224478,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Semampir",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7489458,
-          -7.2195029
-        ]
-      },
-      "id": "node/5565106597"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565108035",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224558,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Kenjeran",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.771611,
-          -7.22023
-        ]
-      },
-      "id": "node/5565108035"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565104869",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8225259,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Mulyorejo",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.793519,
-          -7.2679773
-        ]
-      },
-      "id": "node/5565104869"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5565109425",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 8224593,
-            "reltags": {
-              "admin_level": "6",
-              "boundary": "administrative",
-              "is_in:city": "Surabaya",
-              "is_in:province": "Jawa Timur",
-              "name": "Bulak",
-              "source": "HOT_InAWARESurvey_2016",
-              "type": "boundary"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.7876305,
-          -7.2283541
-        ]
-      },
-      "id": "node/5565109425"
+      "id": 30
     }
   ]
 }
