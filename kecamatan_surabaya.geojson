@@ -13,7 +13,6 @@
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
         "name": "Genteng",
-        "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
       "geometry": {
