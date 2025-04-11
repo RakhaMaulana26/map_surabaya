@@ -7,11 +7,13 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "relation/8224396",
         "admin_level": "6",
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
         "name": "Genteng",
+        "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
       "geometry": {
@@ -604,6 +606,7 @@
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
         "name": "Simokerto",
+        "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
       "geometry": {
@@ -1080,6 +1083,7 @@
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
         "name": "Semampir",
+        "source": "HOT_InAWARESurvey_2016",
         "type": "boundary"
       },
       "geometry": {
@@ -37015,6 +37019,13 @@
               "wikipedia": "id:Bubutan, Surabaya"
             }
           }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.730062,
+          -7.2526708
         ]
       },
       "id": "node/5565112193"
