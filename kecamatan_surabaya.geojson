@@ -12,9 +12,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Genteng",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Genteng"
       },
       "geometry": {
         "type": "Polygon",
@@ -605,9 +605,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Simokerto",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Simokerto"
       },
       "geometry": {
         "type": "Polygon",
@@ -1082,9 +1082,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Semampir",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Semampir"
       },
       "geometry": {
         "type": "Polygon",
@@ -2485,9 +2485,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Kenjeran",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Kenjeran"
       },
       "geometry": {
         "type": "Polygon",
@@ -3794,9 +3794,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Bulak",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Bulak"
       },
       "geometry": {
         "type": "Polygon",
@@ -5891,9 +5891,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Krembangan",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Krembangan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7340,11 +7340,11 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Bubutan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298203",
-        "wikipedia": "id:Bubutan, Surabaya"
+        "wikipedia": "id:Bubutan, Surabaya",
+        "kecamatan": "Bubutan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7887,11 +7887,11 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Sawahan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298302",
-        "wikipedia": "id:Sawahan, Surabaya"
+        "wikipedia": "id:Sawahan, Surabaya",
+        "kecamatan": "Sawahan"
       },
       "geometry": {
         "type": "Polygon",
@@ -8586,9 +8586,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Sukomanunggal",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Sukomanunggal"
       },
       "geometry": {
         "type": "Polygon",
@@ -9532,11 +9532,11 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Asemrowo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q9298564",
-        "wikipedia": "id:Asemrowo, Surabaya"
+        "wikipedia": "id:Asemrowo, Surabaya",
+        "kecamatan": "Asemrowo"
       },
       "geometry": {
         "type": "Polygon",
@@ -11431,9 +11431,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Pakal",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Pakal"
       },
       "geometry": {
         "type": "Polygon",
@@ -12976,9 +12976,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Tandes",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Tandes"
       },
       "geometry": {
         "type": "Polygon",
@@ -14069,9 +14069,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Benowo",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Benowo"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16820,9 +16820,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Tambaksari",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Tambaksari"
       },
       "geometry": {
         "type": "Polygon",
@@ -17825,9 +17825,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Lakarsantri",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Lakarsantri"
       },
       "geometry": {
         "type": "Polygon",
@@ -19170,9 +19170,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Sukolilo",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Sukolilo"
       },
       "geometry": {
         "type": "Polygon",
@@ -20577,9 +20577,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Mulyorejo",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Mulyorejo"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21996,11 +21996,11 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Dukuh Pakis",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q9298534",
-        "wikipedia": "id:Dukuh Pakis, Surabaya"
+        "wikipedia": "id:Dukuh Pakis, Surabaya",
+        "kecamatan": "Dukuh Pakis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23243,9 +23243,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Sambikerep",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Sambikerep"
       },
       "geometry": {
         "type": "Polygon",
@@ -24736,9 +24736,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Gubeng",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Gubeng"
       },
       "geometry": {
         "type": "Polygon",
@@ -25481,8 +25481,8 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Rungkut",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Rungkut"
       },
       "geometry": {
         "type": "Polygon",
@@ -27017,11 +27017,11 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Gayungan",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298309",
-        "wikipedia": "id:Gayungan, Surabaya"
+        "wikipedia": "id:Gayungan, Surabaya",
+        "kecamatan": "Gayungan"
       },
       "geometry": {
         "type": "Polygon",
@@ -27708,8 +27708,8 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Tenggilis Mejoyo",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Tenggilis Mejoyo"
       },
       "geometry": {
         "type": "Polygon",
@@ -28660,9 +28660,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Gunung Anyar",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Gunung Anyar"
       },
       "geometry": {
         "type": "Polygon",
@@ -29817,9 +29817,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Wonocolo",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Wonocolo"
       },
       "geometry": {
         "type": "Polygon",
@@ -30682,9 +30682,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Wiyung",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Wiyung"
       },
       "geometry": {
         "type": "Polygon",
@@ -32071,9 +32071,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Karang Pilang",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Karang Pilang"
       },
       "geometry": {
         "type": "Polygon",
@@ -33168,12 +33168,12 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Wonokromo",
         "source": "HOT_InAWARESurvey_2016",
         "type": "boundary",
         "wikidata": "Q3298334",
         "wikimedia_commons": "Category:Wonokromo",
-        "wikipedia:en": "Wonokromo"
+        "wikipedia:en": "Wonokromo",
+        "kecamatan": "Wonokromo"
       },
       "geometry": {
         "type": "Polygon",
@@ -34276,9 +34276,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Jambangan",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Jambangan"
       },
       "geometry": {
         "type": "Polygon",
@@ -34745,9 +34745,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Tegalsari",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Tegalsari"
       },
       "geometry": {
         "type": "Polygon",
@@ -35274,9 +35274,9 @@
         "boundary": "administrative",
         "is_in:city": "Surabaya",
         "is_in:province": "Jawa Timur",
-        "is_in:kecamatan": "Pabean Cantian",
         "source": "HOT_InAWARESurvey_2016",
-        "type": "boundary"
+        "type": "boundary",
+        "kecamatan": "Pabean Cantian"
       },
       "geometry": {
         "type": "Polygon",
